@@ -1,6 +1,6 @@
 - 👋 Hi, I’m : **Sayandeep Das**
 - 👀 I’m interested in : **Frontend Develope**r
-- 🌱 I’m currently learning : **Web Deb\velopment.**
+- 🌱 I’m currently learning : **Web Development.**
 - 📫 How to reach me : **sayandeepdas2003@gmail.com**
 - ⚡ Fun fact: **Commit this> There are more repositories on GitHub than there are stars in the Milky Way!
 **
